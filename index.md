@@ -25,7 +25,7 @@ I was born in the Bay Area in California. I was born and brought up in an Indian
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe]("/Images/IMG_0146.jpg")
+2. [Lake Tahoe](Images/IMG_0146.jpg)
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
