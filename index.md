@@ -1,23 +1,24 @@
 # Information about Abhishek Vasudevan
 
 Here is a recent picture of me!
-![Image of me](Images/DSC_0002.JPG = 100x20)
+![Image of me](Images/DSC_0002.JPG=100x20)
 
 
 
 
 
 
-1. [Personal Life]()
-   - [Personal Background]()
-   - [Sports and Outdoor Activities]()
-   - [Music]())
-   - [Games]())
-   - [Favorite Quote]()
-2. [Education]()
-   - [Lower Studies]()
-   - [College]()
-3. [Experience with Technology]()
+- [Information about Abhishek Vasudevan](#information-about-abhishek-vasudevan)
+  - [Personal Life](#personal-life)
+          - [Personal Background](#personal-background)
+          - [Sports and Outdoor Activities](#sports-and-outdoor-activities)
+          - [Music](#music)
+          - [Games](#games)
+          - [Favorite Quote](#favorite-quote)
+  - [Education](#education)
+    - [Lower Studies](#lower-studies)
+    - [University](#university)
+  - [Experience in Technology](#experience-in-technology)
 
 ## Personal Life
 ###### Personal Background
@@ -27,7 +28,7 @@ I was born in the Bay Area in California. I am an Indian and I have an older sis
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg = 100x20)
+2. [Lake Tahoe](Images/IMG_0146.jpg=100x20)
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
@@ -56,23 +57,23 @@ I attended elementary, middle, and high school in San Ramon, California where I 
 
 This is a tasklist of all of the **core** major courses that an individual studying Computer Engineer must complete and how many classes I have completed. More information is provided on the [Computer Engineering Major Requirements Page](https://ece.ucsd.edu/undergraduate/undergraduate-programs/computer-engineering-major).
 
--[x] CSE 8A and 8B/11
--[x] CSE 12/15L
--[x] CSE 20
--[x] CSE 21
--[x] CSE 30
--[x] ECE 35
--[x] ECE 45
--[x] ECE 65
--[x] CSE 100
--[] CSE 101 
--[x] ECE 101
--[x] ECE 109
--[] CSE 110 
--[] ECE 111 
--[] CSE 120
--[x] CSE 140/140L
--[] CSE 141/141L
+- [x] CSE 8A and 8B/11
+- [x] CSE 12/15L
+- [x] CSE 20
+- [x] CSE 21
+- [x] CSE 30
+- [x] ECE 35
+- [x] ECE 45
+- [x] ECE 65
+- [x] CSE 100
+- [] CSE 101 
+- [x] ECE 101
+- [x] ECE 109
+- [] CSE 110 
+- [] ECE 111 
+- [] CSE 120
+- [x] CSE 140/140L
+- [] CSE 141/141L
 
 In Spring 2021, these are the list of courses that I am taking:
 - ECE 111
