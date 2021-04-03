@@ -1,47 +1,41 @@
 # Information about Abhishek Vasudevan
 
-Here is a recent picture of me!
-![Image of me](Images/DSC_0002.JPG =100x20)
-
-
-
-
-
+![Image of me](Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png)
 
 - [Information about Abhishek Vasudevan](#information-about-abhishek-vasudevan)
   - [Personal Life](#personal-life)
-          - [Personal Background](#personal-background)
-          - [Sports and Outdoor Activities](#sports-and-outdoor-activities)
-          - [Music](#music)
-          - [Games](#games)
-          - [Favorite Quote](#favorite-quote)
+    - [Personal Background](#personal-background)
+    - [Sports and Outdoor Activities](#sports-and-outdoor-activities)
+    - [Music](#music)
+    - [Games](#games)
+    - [Favorite Quote](#favorite-quote)
   - [Education](#education)
     - [Lower Studies](#lower-studies)
     - [University](#university)
   - [Experience in Technology](#experience-in-technology)
 
 ## Personal Life
-###### Personal Background
+### Personal Background
 I was born in the Bay Area in California. I am an Indian and I have an older sister who graduated from UC Irvine with a degree in Computer Science.
 
-###### Sports and Outdoor Activities
+### Sports and Outdoor Activities
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg =100x20)
+2. [Lake Tahoe](Images/IMG_0146.jpg)
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
 6. Zion National Park
 
-###### Music
+### Music
 
 I also play a couple of instruments. One of the instruments that I play is the clarinet which I have been playing for 10 years. In fact, I even performed at Carnegie Hall along with my high school band in New York. Secondly, I play the tabla which is an Indian Classical Percussion Instrument which I have been learning for 7 years.
 
-###### Games
+### Games
 In my free time, I love to play video games such as *Super Smash Bros*, *Halo*, *Super Mario Galaxy*, and *Valorant*.
 
-###### Favorite Quote
+### Favorite Quote
 One of my favorite quotes of all time is by Mike Hawkins
 > You don't get results by focusing on results. You get results by focusing on the actions that produce results.
 
