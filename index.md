@@ -1,7 +1,7 @@
 # Information about Abhishek Vasudevan
 
 Here is a recent picture of me!
-![Image of me](Images/DSC_0002.JPG=100x20)
+![Image of me](Images/DSC_0002.JPG =100x20)
 
 
 
@@ -28,7 +28,7 @@ I was born in the Bay Area in California. I am an Indian and I have an older sis
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg=100x20)
+2. [Lake Tahoe](Images/IMG_0146.jpg =100x20)
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
@@ -66,14 +66,14 @@ This is a tasklist of all of the **core** major courses that an individual study
 - [x] ECE 45
 - [x] ECE 65
 - [x] CSE 100
-- [] CSE 101 
+- [ ] CSE 101 
 - [x] ECE 101
 - [x] ECE 109
-- [] CSE 110 
-- [] ECE 111 
-- [] CSE 120
+- [ ] CSE 110 
+- [ ] ECE 111 
+- [ ] CSE 120
 - [x] CSE 140/140L
-- [] CSE 141/141L
+- [ ] CSE 141/141L
 
 In Spring 2021, these are the list of courses that I am taking:
 - ECE 111
