@@ -1,6 +1,6 @@
 # Information about Abhishek Vasudevan
 
-![Image of me](Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png){:height="50%" width="50%"}
+<img src="Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png" width="100" height="100">
 
 - [Information about Abhishek Vasudevan](#information-about-abhishek-vasudevan)
   - [Personal Life](#personal-life)
