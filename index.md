@@ -16,16 +16,16 @@
 
 ## Personal Life
 
-[HELLO]<img src="Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png" width="250" height="250">
+<img src="Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png" width="250" height="250">
 
 ### Personal Background
-I was born in the Bay Area in California. I am an Indian and I have an older sister who graduated from UC Irvine with a degree in Computer Science.
+I was born in the Bay Area in California. I was born and brought up in an Indian family. I have an older sister who graduated from UC Irvine with a degree in Computer Science. My dad works in an IT company and my mom works as an administrator in school. I am a very active person and love to try new things.
 
 ### Sports and Outdoor Activities
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg){:height="50%" width="50%"}
+2. [Lake Tahoe]("Images/IMG_0146.jpg")
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
