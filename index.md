@@ -1,6 +1,6 @@
 # Information about Abhishek Vasudevan
 
-![Image of me](Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png)
+![Image of me](Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png){:height="50%" width="50%"}
 
 - [Information about Abhishek Vasudevan](#information-about-abhishek-vasudevan)
   - [Personal Life](#personal-life)
@@ -22,7 +22,7 @@ I was born in the Bay Area in California. I am an Indian and I have an older sis
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg)
+2. [Lake Tahoe](Images/IMG_0146.jpg){:height="50%" width="50%"}
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
