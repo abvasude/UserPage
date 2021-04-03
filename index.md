@@ -16,7 +16,7 @@
 
 ## Personal Life
 
-<img src="Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png" width="250" height="250">
+[HELLO]<img src="Images/Screen%20Shot%202021-04-02%20at%2010.46.28%20PM.png" width="250" height="250">
 
 ### Personal Background
 I was born in the Bay Area in California. I am an Indian and I have an older sister who graduated from UC Irvine with a degree in Computer Science.
