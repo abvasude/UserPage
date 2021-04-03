@@ -83,6 +83,6 @@ From a young age, I always had an interest in Math and Computer Science. When I 
 
 In my first year of college, I learned more about Object Oriented Programming in Java, C, C++, and I also learned how to use vim, bash, and terminal commands. Learning how to use a terminal became extremely useful when coding in java, python, and even organizing my computer's contents. Important commands that I learned are `ls`, `cd`, `diff`, `cat`, `grep`, and `rm` to name a few.
 
-In the summer after my first year of college, I joined my first internship where I learned Machine Learning and its applications in data science and statistics. 
+In the summer after my first year of college, I joined my first internship where I learned Machine Learning and its applications in data science and statistics. This was a very eye opening experience for me because this was the first time that I truly understood the broad nature of Computer Science and how technology has rapidly improved and how it will continue to amaze us for years to come.
 
 
