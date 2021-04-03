@@ -1,23 +1,23 @@
 # Information about Abhishek Vasudevan
 
 Here is a recent picture of me!
-![Image of me](Images/DSC_0002.JPG)
+![Image of me](Images/DSC_0002.JPG = 100x20)
 
 
 
 
 
 
-1. [Personal Life](Personal-Life)
-   - [Personal Background](Personal-Background)
-   - [Sports and Outdoor Activities](Sports-and-Outdoor-Activities)
-   - [Music](Music)
-   - [Games](Games)
-   - [Favorite Quote](Favorite-Quote)
-2. [Education](Education)
-   - [Lower Studies](Lower-Studies)
-   - [College](College)
-3. [Experience with Technology](Experience-with-Technology)
+1. [Personal Life]()
+   - [Personal Background]()
+   - [Sports and Outdoor Activities]()
+   - [Music]())
+   - [Games]())
+   - [Favorite Quote]()
+2. [Education]()
+   - [Lower Studies]()
+   - [College]()
+3. [Experience with Technology]()
 
 ## Personal Life
 ###### Personal Background
@@ -27,7 +27,7 @@ I was born in the Bay Area in California. I am an Indian and I have an older sis
 I am a huge cricket fan and I love playing cricket in my spare time. In my free time, I love to bowl to a wicket in my garage to practice my form. In addition, I enjoy going on runs to relieve stress. Over summer breaks, I love hiking and going on drives with my parents and my older sister. My favorite travel spots are 
 
 1. Yellow Stone National Park
-2. [Lake Tahoe](Images/IMG_0146.jpg)
+2. [Lake Tahoe](Images/IMG_0146.jpg = 100x20)
 3. Bryce National Park
 4. Yosemite
 5. Jasper, Alberta
@@ -51,8 +51,8 @@ This is a motto to live by because if you focus too much on the end result such 
 ### Lower Studies
 I attended elementary, middle, and high school in San Ramon, California where I spent most of my childhood. In addition, I also completed courses online at Brigham Young University and Contra Costa Community College to enhance my understanding of Computer Science and Engineering.
 
-### College
-*I am currently a sophomore student at the University of Calfornia San Diego where I study Computer Engineering.* 
+### University
+*I am currently a sophomore student at the University of California San Diego where I study Computer Engineering.* 
 
 This is a tasklist of all of the **core** major courses that an individual studying Computer Engineer must complete and how many classes I have completed. More information is provided on the [Computer Engineering Major Requirements Page](https://ece.ucsd.edu/undergraduate/undergraduate-programs/computer-engineering-major).
 
@@ -83,7 +83,7 @@ In Spring 2021, these are the list of courses that I am taking:
 ## Experience in Technology
 From a young age, I always had an interest in Math and Computer Science. When I was 12, I started learning Java and soon after, I started coding in Python and C#. In high school, I joined many clubs such as the Computer Science club and Mu Alpha Theta Math club. In my Junior year of high school, I was invited to Lawrence Livermore Labs as a IT job shadow where I learned about advanced technology that scientists and engineers use to solve real world problems.
 
-In my first year of college, I learned more about Object Oriented Programming in Java, C, C++, and I also learned how to use vim, bash, and terminal commands. Learning how to use a terminal became extremely useful when coding in java, python, and even organizing my computer's contents. Important commands that I learned are 'ls', 'cd', 'diff', 'cat', 'grep', and 'rm' to name a few.
+In my first year of college, I learned more about Object Oriented Programming in Java, C, C++, and I also learned how to use vim, bash, and terminal commands. Learning how to use a terminal became extremely useful when coding in java, python, and even organizing my computer's contents. Important commands that I learned are `ls`, `cd`, `diff`, `cat`, `grep`, and `rm` to name a few.
 
 In the summer after my first year of college, I joined my first internship where I learned Machine Learning and its applications in data science and statistics. 
 
